@@ -3,7 +3,7 @@
 ---
 #### 팀 프로젝트
 
-#### 개발기간 : 2022년 2학기 '디자인적사고' 전공수업
+#### 개발시기 : 2022년 2학기 '디자인적사고' 전공수업
 
 [😺Our Github](https://github.com/SungWonHwang/designThinking2022?tab=readme-ov-file)
 
